@@ -1,4 +1,4 @@
-### Ola! Sou eu Vitor Ramos Petroni!
+### Ola! Sou Vitor Ramos Petroni!
 
 - 📚 Estudando: full stack - Labenu
 - 😄 Pronouns: ele/dele
